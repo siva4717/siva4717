@@ -1,3 +1,10 @@
+
+
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/siva4717/siva4717/main/banner.png" />
+</p>
+
 # 💫 About Me
 Hi 👋 I’m **Siva Gopi Mothala**, a DevOps / DevSecOps Engineer passionate about cloud infrastructure, automation, and secure CI/CD pipelines. I enjoy working with AWS, Docker, Kubernetes, and modern DevOps tools to build reliable and scalable systems through hands-on projects and continuous learning.
 
