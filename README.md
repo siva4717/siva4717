@@ -64,5 +64,5 @@ Hi 👋 I’m **Siva Gopi Mothala**, a DevOps / DevSecOps Engineer passionate ab
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/siva4717/siva4717/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+  <img src="https://raw.githubusercontent.com/siva4717/siva4717/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 </p>
