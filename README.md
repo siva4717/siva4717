@@ -23,10 +23,10 @@ Hi 👋 I’m **Siva Gopi Mothala**, a DevOps / DevSecOps Engineer passionate ab
 - **Containers:** Docker
 - **Container Orchestration:** Kubernetes
 - **CI/CD:** Jenkins, GitHub Actions
-- **Infrastructure as Code:** Terraform (Basics)
-- **Configuration Management:** Ansible (Basics)
+- **Infrastructure as Code:** Terraform 
+- **Configuration Management:** Ansible 
 - **Monitoring:** Prometheus, Grafana
-- **Security (DevSecOps):** Trivy, SonarQube
+- **Security (DevSecOps):** SonarQube
 - **Version Control:** Git, GitHub
 - **Scripting:** Bash
 - **Programming:** Python (Basics)
