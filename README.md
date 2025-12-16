@@ -72,8 +72,6 @@ Hi 👋 I’m **Siva Gopi Mothala**, a DevOps / DevSecOps Engineer passionate ab
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siva4717&theme=dark&hide_border=false&layout=compact)
 
 ---
-
----
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🟡 Pac-Man Contribution Graph
