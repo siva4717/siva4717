@@ -25,7 +25,7 @@ Hi 👋 I’m **Siva Gopi Mothala**, a DevOps / DevSecOps Engineer passionate ab
 - **CI/CD:** Jenkins, GitHub Actions
 - **Infrastructure as Code:** Terraform 
 - **Configuration Management:** Ansible 
-- **Monitoring:** Prometheus, Grafana
+- **Monitoring:** Prometheus, Grafana, ELK
 - **Security (DevSecOps):** SonarQube
 - **Version Control:** Git, GitHub
 - **Scripting:** Bash
